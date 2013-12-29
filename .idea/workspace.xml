@@ -35,7 +35,7 @@
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="3" selection-start="727" selection-end="727" vertical-scroll-proportion="-22.52" vertical-offset="82" max-vertical-offset="810">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="21" selection-start="487" selection-end="487" vertical-scroll-proportion="0.3883495" vertical-offset="0" max-vertical-offset="618">
+            <state line="36" column="0" selection-start="719" selection-end="719" vertical-scroll-proportion="0.8543689" vertical-offset="12" max-vertical-offset="630">
               <folding />
             </state>
           </provider>
@@ -580,14 +580,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="3" selection-start="727" selection-end="727" vertical-scroll-proportion="-22.52" vertical-offset="82" max-vertical-offset="810">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="487" selection-end="487" vertical-scroll-proportion="0.3883495" vertical-offset="0" max-vertical-offset="618">
+        <state line="36" column="0" selection-start="719" selection-end="719" vertical-scroll-proportion="0.8543689" vertical-offset="12" max-vertical-offset="630">
           <folding />
         </state>
       </provider>

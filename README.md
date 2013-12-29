@@ -4,7 +4,7 @@ Nokogiri
 ```
 is used to extract data from raw html from other sites
 ```
-git clone
+git clone 'https://github.com/sweetymehta/sm-rc190.git'
 ```
 ```
 install
@@ -42,7 +42,4 @@ rake db:seed
 rake fetch_price
 rails s
 ```
-
-
-
 
